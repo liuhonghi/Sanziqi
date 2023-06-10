@@ -26,8 +26,8 @@
 /* Begin PBXFileReference section */
 		9260A5C92A335CB6008982E1 /* sanziqi */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = sanziqi; sourceTree = BUILT_PRODUCTS_DIR; };
 		9260A5CC2A335CB6008982E1 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		9260A5D32A335CD5008982E1 /* game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = game.h; sourceTree = "<group>"; };
 		9260A5D42A335CE3008982E1 /* game.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = game.c; sourceTree = "<group>"; };
+		9260A5D62A3486F4008982E1 /* game.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = game.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 			children = (
 				9260A5CC2A335CB6008982E1 /* main.c */,
 				9260A5D42A335CE3008982E1 /* game.c */,
-				9260A5D32A335CD5008982E1 /* game.h */,
+				9260A5D62A3486F4008982E1 /* game.h */,
 			);
 			path = sanziqi;
 			sourceTree = "<group>";
